@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\work\pddwork\javaworkspace\db4odemo\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+*.Databank.db4o
+*.db4o.licencse.txt
+*.db4o-8.0.184.15484-all-java5.jar
